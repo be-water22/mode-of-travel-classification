@@ -11,4 +11,4 @@ Training the model:
   Then model is fitted with epochs = 50. An epoch means one pass through entire dataset during training. 
 
 Testing the model: 
-  I have implemented forward propogation using dense and sequential function to test the performance of the model on the testing dataset. Finally we get weighted average F1 score is approximately 0.64 .
+  I have implemented forward propogation using dense and sequential function to test the performance of the model on the testing dataset. Finally we get weighted average F1 score approximately equal to 0.61 .
